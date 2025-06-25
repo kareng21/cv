@@ -1,0 +1,14 @@
+{
+  "name": "karen-galstyan-cv",
+  "version": "1.0.0",
+  "description": "Karen Galstyan's Professional CV",
+  "main": "Karen_Galstyan_CV.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "npx http-server -p 8000 -o",
+    "dev": "npx live-server --port=8000 --open=/Karen_Galstyan_CV.html"
+  },
+  "keywords": ["cv", "resume", "portfolio"],
+  "author": "Karen Galstyan",
+  "license": "MIT"
+} 
